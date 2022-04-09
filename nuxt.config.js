@@ -4,15 +4,20 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "blog-nuxt",
+    title: "@samiebuks",
     htmlAttrs: {
       lang: "en",
     },
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: "" },
+      {
+        hid: "description",
+        name: "description",
+        content: "web developer, content creator, CTO, poet",
+      },
       { name: "format-detection", content: "telephone=no" },
+      { hid: "og:image", property: "og:image", content: "/samiebuka.jpeg" },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
   },
