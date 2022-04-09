@@ -1,11 +1,18 @@
 ---
-title: Introduction
+title: "@samiebuka"
 description: Learn how to use @nuxt/content.
+frase: Yo nací y ahora estoy aquí
 ---
 
-# Lorem ipsum
+> I was born, and now I here ..
 
-## dolor—sit—amet
+# Poet
+
+<span class="text-md"> (ˈpəʊɪt) </span>
+
+## my life is the inc, the world is the canvas
+
+This the long version of the story of my life. I was born, and now I am here. Between these to moments many things have happened, let me tell you about them.
 
 ### consectetur &amp; adipisicing
 
