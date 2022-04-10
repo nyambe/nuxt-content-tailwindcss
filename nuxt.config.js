@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "@samiebuks",
+    title: "@samiebuka",
     htmlAttrs: {
       lang: "en",
     },
@@ -17,7 +17,7 @@ export default {
         content: "web developer, content creator, CTO, poet",
       },
       { name: "format-detection", content: "telephone=no" },
-      { hid: "og:image", property: "og:image", content: "/samiebuka.jpeg" },
+      { hid: "og:image", property: "og:image", content: "/samuelebuka.jpeg" },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
   },
