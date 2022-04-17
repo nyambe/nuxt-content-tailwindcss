@@ -9,8 +9,7 @@ tags:
   - Web
   - Frontend
   - petit-vue
-categories:
-  - tools
+category: tools
 ---
 
 ## Petit Vue

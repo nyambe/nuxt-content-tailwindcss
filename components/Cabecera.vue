@@ -1,7 +1,7 @@
 <template>
-  <div class="flex">
+  <div class="flex w-full">
     <div
-      class="fixed flex justify-end w-full p-2 mx-auto space-x-2 text-xs max-w-7xl dark:text-white"
+      class="fixed z-10 flex justify-end w-full mx-auto space-x-2 text-xs max-w-7xl dark:text-white"
     >
       <router-link to="/"> home </router-link>
       <router-link to="/blog"> blog </router-link>

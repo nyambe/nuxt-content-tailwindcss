@@ -9,8 +9,7 @@ tags:
   - Javascript
   - Web
   - Frontend
-categories:
-  - vs
+category: vs
 ---
 
 ## Svelte vs Vue3 epic battle

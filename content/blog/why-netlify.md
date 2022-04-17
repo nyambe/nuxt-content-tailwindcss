@@ -6,8 +6,7 @@ tags:
   - Netlify
   - Frontend
   - nuxt
-categories:
-  - deploy
+category: deploy
 ---
 
 # Why Netlify?

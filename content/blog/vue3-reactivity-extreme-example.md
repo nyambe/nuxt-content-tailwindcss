@@ -4,8 +4,7 @@ description: Markdown is a text-to-HTML conversion tool for web writers.
 frase: Every day there is a new framework
 tags:
   - Vue3
-categories:
-  - discovery
+category: discovery
 ---
 
 ## Reactivity Why?

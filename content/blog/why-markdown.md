@@ -4,8 +4,7 @@ description: Markdown is a text-to-HTML conversion tool for web writers.
 frase: Every day there is a new framework
 tags:
   - Markdown
-categories:
-  - tools
+category: tools
 ---
 
 # Why Markdown
