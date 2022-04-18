@@ -1,7 +1,7 @@
 <template>
   <!-- <Tutorial /> -->
   <article
-    class="w-full mx-auto my-2 prose-sm prose sm:prose prose-h1:text-6xl dark:prose-invert lg:prose-lg xl:prose-2xl"
+    class="w-full mx-auto prose-sm prose mp-2 sm:prose prose-h1:text-6xl dark:prose-invert lg:prose-lg xl:prose-2xl"
   >
     <h1 class="mt-10">{{ page.title }}</h1>
     <nuxt-content :document="page" />

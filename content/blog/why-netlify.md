@@ -7,6 +7,7 @@ tags:
   - Frontend
   - nuxt
 category: deploy
+youtube: 4h8B080Mv4U
 ---
 
 # Why Netlify?
@@ -15,4 +16,4 @@ Netlify unites an entire ecosystem of modern tools and services into a single, s
 
 It also a fantastic place to deploy you projects in a leading edge technology platform. You can for examplo deploy directly from [Github](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
 
-<iframe height="350" class="w-full aspect-video" src="https://www.youtube.com/embed/4h8B080Mv4U" title="Netlify Tutorial –Deploying from Git" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <YoutubeVideo id="4h8B080Mv4U" title="Netlify Tutorial –Deploying from Git" /> -->

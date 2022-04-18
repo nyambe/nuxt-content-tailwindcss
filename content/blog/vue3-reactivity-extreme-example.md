@@ -5,6 +5,7 @@ frase: Every day there is a new framework
 tags:
   - Vue3
 category: discovery
+youtube: T8EQcqZq2Bg
 ---
 
 ## Reactivity Why?
@@ -23,7 +24,7 @@ When your code uses a store to track the variables, if you decide to reuse the c
 
 Vue3 lets you create sniplets of code that keep track of their own reativity and can be used across many different files. These Sniplets are called by convection are called composables, and are pure js. All you need to do is import the reactivity from vue. Since reactivity is a separate module in Vue3, you can actually use it in any project, even if its not vue. In React? we should try
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/T8EQcqZq2Bg" title="Vue 3 Reactivity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<!-- <YoutubeVideo id="T8EQcqZq2Bg" title="Vue 3 Reactivity" /> -->
 
 ## More info
 

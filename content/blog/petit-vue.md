@@ -10,6 +10,7 @@ tags:
   - Frontend
   - petit-vue
 category: tools
+youtube: a7MX79aBS1Q
 ---
 
 ## Petit Vue
@@ -21,7 +22,9 @@ category: tools
 - DOM-based, mutates in place
 - Driven by `@vue/reactivity`
 
-<iframe height="350" class="w-full aspect-video" src="https://www.youtube.com/embed/a7MX79aBS1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe height="350" class="w-full aspect-video" src="https://www.youtube.com/embed/a7MX79aBS1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<!-- <YoutubeVideo id="a7MX79aBS1Q" title="Petit vue" /> -->
 
 ## Usage
 

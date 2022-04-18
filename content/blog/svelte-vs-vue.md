@@ -10,13 +10,12 @@ tags:
   - Web
   - Frontend
 category: vs
+youtube: -qZHWh3chAY
 ---
 
 ## Svelte vs Vue3 epic battle
 
-<div class="relative p-4 rounded-xl">
-<iframe height="350" class="w-full h-64 rounded-lg shadow-lg aspect-video" src="https://www.youtube.com/embed/-qZHWh3chAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<!-- <YoutubeVideo id="-qZHWh3chAY" title="Svelte vs Vue3" /> -->
 
 Svelte and Vue3 borrow a lot from each other. It is very clear when we look at their syntax. This is a good thing, frameworks are learning from each others mistakes and advantages.
 
